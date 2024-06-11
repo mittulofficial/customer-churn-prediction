@@ -5,7 +5,7 @@ DATA PROCESS
 
 <img width="681" alt="Screenshot 2024-06-11 at 9 46 33 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/21906791-a56e-477e-ae3e-277779e1dfa7">
 <img width="653" alt="Screenshot 2024-06-11 at 9 46 27 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/5490bc63-e6e5-4e56-9757-bdc37732e970">
-              EDA
+EDA
 <img width="1042" alt="Screenshot 2024-06-11 at 9 48 37 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/e9bf8eb2-4bf4-47c8-b4dc-3e7709bc87bf">
 <img width="1070" alt="Screenshot 2024-06-11 at 9 49 05 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/1bb3e43e-53cb-4ab5-ade4-58282af62909">
 <img width="1042" alt="Screenshot 2024-06-11 at 9 48 52 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/a990beca-6a65-4db3-bc86-c60cb8cf59a2">
