@@ -13,3 +13,5 @@ EDA
 <img width="1042" alt="Screenshot 2024-06-11 at 9 48 30 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/8d8f8157-9c19-4946-b92d-1b8aeb430534">
 <img width="1042" alt="Screenshot 2024-06-11 at 9 48 24 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/f8cc453f-7084-4c85-8c01-40ce2bea4295">
 <img width="1042" alt="Screenshot 2024-06-11 at 9 48 17 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/74da117e-5b2a-4090-80b7-6b194d7e7e5a">
+Feature Engineering
+<img width="1032" alt="Screenshot 2024-06-11 at 9 55 23 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/ab829dec-35e4-4a7d-8328-4afda2b1ec9d">
