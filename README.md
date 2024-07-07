@@ -1,6 +1,6 @@
 # Customer churn prediction of a Telecommunication company 
 
-![Reference Image](/CHURN-IMAGESS.jpg)
+<center> <img src="https://i.ibb.co/5cq4fQz/CHURN-IMAGESS.jpg" > </center>
 
 
 <a id = "2" ></a>
