@@ -1,17 +1,90 @@
-EVALUATION
-<img width="942" alt="Screenshot 2024-06-11 at 9 43 00 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/93ce8f13-a572-4296-a7aa-fc986905b649">
-<img width="1059" alt="Screenshot 2024-06-11 at 9 42 47 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/f9282d5d-cb35-41d3-98c0-5f6162216c2f">
-DATA PROCESS
-<img width="681" alt="Screenshot 2024-06-11 at 9 46 33 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/21906791-a56e-477e-ae3e-277779e1dfa7">
-<img width="653" alt="Screenshot 2024-06-11 at 9 46 27 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/5490bc63-e6e5-4e56-9757-bdc37732e970">
-EDA
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 47 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/36cedd14-d88c-40d6-83b8-b7c68e6745b8">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 41 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/40988559-6b57-4d94-9500-3c981969bac5">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 37 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/4d183ea1-8e30-4604-b08d-7b2368f3e0d9">
-<img width="1070" alt="Screenshot 2024-06-11 at 9 49 05 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/64cb1d40-cd50-45b1-9cee-a8bc0ebc844f">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 52 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/5310143c-f9d2-44b2-8018-608c2a392c32">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 30 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/8d8f8157-9c19-4946-b92d-1b8aeb430534">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 24 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/f8cc453f-7084-4c85-8c01-40ce2bea4295">
-<img width="1042" alt="Screenshot 2024-06-11 at 9 48 17 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/74da117e-5b2a-4090-80b7-6b194d7e7e5a">
-Feature Engineering
-<img width="1032" alt="Screenshot 2024-06-11 at 9 55 23 PM" src="https://github.com/mittulofficial/customer-churn-prediction/assets/111638490/ab829dec-35e4-4a7d-8328-4afda2b1ec9d">
+# Customer churn prediction of a Telecommunication company 
+
+![Reference Image](/CHURN-IMAGESS.jpg)
+
+
+<a id = "2" ></a>
+<span style="font-family:Georgia, serif; font-size:22px;">Customer Churn</span>
+<br>
+<span style="font-family:Georgia, serif; font-size:15px;">
+Customer churn, also known as customer attrition,is when a customer chooses to stop using products or services of a company. But with each customer who churns, there are usually early indicators or metrics that can have been uncovered with churn analysis.</span>
+
+- <span style="font-family:Georgia, serif; font-size:15px;"> For example, The Telecom Industry faces a lot of Churn(With annual churn rate of 15-25%) because the customers can choose from a variety of service providers and actively switch from existing to another.</span>
+
+
+- <span style="font-family:Georgia, serif; font-size:15px;">  While looking at both Business operational insights (e.g. declining repeat purchases, reduced purchase quantity) and Customer experience insights along the customer feedbacks is foundational in order to predict churn. A scenario where a customer who has declined in recent visits and gives a feedback score of 6 of 10 after their latest shopping experience, could have an increased probability of churning.</span>
+
+- <span style="font-family:Georgia, serif; font-size:15px;">  Generally in a business perspective it costs more to acquire new customers than it does to retain existing customers. In fact, an increase in customer retention of just 5% can create at least a 25% increase in profit. This is because returning customers will likely spend 60% more on a company's products and services. As a result, the company can spend less on the operating costs of having to acquire new customers by spending time and money on convincing an existing customer to select your company over competitors because they've already made their mind.</span>
+
+- <span style="font-family:Georgia, serif; font-size:15px;">  However, if a company could forecast why and which customers are likely to leave ahead of time, it can focus on customer retention efforts only on these "high risk" clients. This helps in achieving the goal of expanding its customer base and retrieve more customers loyalty. </span>
+
+
+<a id="churn"></a>
+<a id = "3" ></a>
+<span style="font-family:Georgia, serif; font-size:22px;">How to address and reduce Customer Churn?</span>
+
+
+<span style="font-family:Georgia, serif; font-size:15px;"> To reduce customer churn, Companies need to predict which customers are at high risk of churn.</span>
+
+- <span style="font-family:Georgia, serif; font-size:15px;">  To detect early signs of potential churn, insight generation of customers and their interactions across numerous channels, including store visits, product purchase history, customer service calls, Web-based transactions, and social media interaction. </span>
+
+- <span style="font-family:Georgia, serif; font-size:15px;">  By providing solution for churn, businesses can preserve their market position,and also grow and thrive with more customers network, the lower the cost of initiation and the larger the profit.</span>
+
+
+<a id = "4" ></a>
+<span style="font-family:Georgia, serif; font-size:22px;">Objectives in this Analysis</span>
+<br>
+<br>
+<span style="font-family:Georgia, serif; font-size:15px;"> Objective is to find solutions and suggestions for any possible churning </span>
+- <span style="font-family:Georgia, serif; font-size:15px;">What is the percentage of Customers who are with the active services and Customers who Churn ?
+    <br>
+- <span style="font-family:Georgia, serif; font-size:15px;"> Does gender play a role in Customers Churn ?</span>
+    <br>
+- <span style="font-family:Georgia, serif; font-size:15px;"> Does the type of service provided leads to more/less Customers Churn?</span>
+    <br>
+- <span style="font-family:Georgia, serif; font-size:15px;"> What's the most profitable service types?</span>
+    <br>
+- <span style="font-family:Georgia, serif; font-size:15px;"> Profitable features and services by the company? </span>
+<a id="objective"></a>
+
+-------------------------------------------------
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/mittulofficial/customer-churn-prediction.git
+    cd customer-churn-prediction
+    ```
+
+2. **Create a virtual environment:**
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate # On Windows, use `venv\Scripts\activate`
+    ```
+
+3. **Install the required libraries:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+# Please check NOTEBOOK folder for more details
+# Usage
+After setting up the environment and installing the dependencies, you can use Jupyter Notebook to explore the data and run the analysis.
+
+## 1. Start Jupyter Notebook:
+```
+jupyter notebook
+```
+## 2. Open the notebook:
+
+
+In the Jupyter Notebook interface, navigate to the NOTEBOOK directory and open the EDA_ML.ipynb file.
+
+## 3. Run the notebook:
+
+Execute the cells in the notebook to explore the data and run the analysis. The notebook includes steps for exploratory data analysis (EDA) and machine learning model building.
