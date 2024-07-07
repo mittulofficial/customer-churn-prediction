@@ -4,3 +4,12 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
+plotly
+xgboost
+catboost
+
+
+
+
+
+
