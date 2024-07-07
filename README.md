@@ -77,7 +77,12 @@ To get started with this project, follow these steps:
   pip install pandas numpy scikit-learn matplotlib seaborn jupyter plotly xgboost catboost
 
   ```
-4. **Dataset:**
+4. **Upgrade Packages:**
+   ```
+   python upgrade_packages.py
+   ```
+   
+5. **Dataset:**
    
   Ensure that the dataset Customer-Churn.csv or WA_Fn-UseC_-Telco-Customer-Churn.csv is placed in the same directory where your Python 
   script or Jupyter notebook is located.
