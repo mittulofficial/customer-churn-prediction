@@ -72,6 +72,17 @@ To get started with this project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+  or you can You can install the required Python libraries using following commands:
+  ```
+  pip install pandas numpy scikit-learn matplotlib seaborn jupyter plotly xgboost catboost
+
+  ```
+4. **Dataset:**
+   
+  Ensure that the dataset Customer-Churn.csv or WA_Fn-UseC_-Telco-Customer-Churn.csv is placed in the same directory where your Python 
+  script or Jupyter notebook is located.
+
+    
 # Please check NOTEBOOK folder for more details
 # Usage
 After setting up the environment and installing the dependencies, you can use Jupyter Notebook to explore the data and run the analysis.
